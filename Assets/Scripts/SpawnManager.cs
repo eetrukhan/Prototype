@@ -15,7 +15,8 @@ public class SpawnManager : MonoBehaviour
     {
         InvokeRepeating(nameof(SpawnObstacle), startDelay, repeatRate);
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
-    }
+    } 
+    //test1
 
     // Update is called once per frame
     private void SpawnObstacle()
