@@ -19,6 +19,8 @@ public class SpawnManager : MonoBehaviour
     //test1
     
     // new test
+    // task 2 ahahahhaha
+    // new comment
 
     // Update is called once per frame
     private void SpawnObstacle()
